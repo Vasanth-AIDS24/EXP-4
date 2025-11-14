@@ -37,15 +37,50 @@ PROCEDURE:
 CIRCUIT DIAGRAMS
 
 Half wave rectifier with filter:
+<img width="857" height="425" alt="image" src="https://github.com/user-attachments/assets/c53fdf01-5a10-4f3c-8389-3856411af4b2" />
+
+```
+Half wave rectifier without filter:
+```
+<img width="837" height="377" alt="image" src="https://github.com/user-attachments/assets/b88cf663-2d0f-49ef-bd7d-5f37ad48f85e" />
+
 
 Bridge rectifier with filter:
 
+<img width="881" height="401" alt="image" src="https://github.com/user-attachments/assets/91af2bea-da23-46e3-880d-ba58d44eacc4" />
+
+```
+Bridge rectifier without filter:
+```
+
+<img width="830" height="343" alt="image" src="https://github.com/user-attachments/assets/9d7b98b6-b23e-4ef5-b486-f02462822f68" />
+
+
 TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
+![WhatsApp Image 2025-11-14 at 12 49 53_3ec4eaf7](https://github.com/user-attachments/assets/a6359476-f622-4483-87e5-3f67037e114c)
+![WhatsApp Image 2025-11-14 at 12 49 52_6909626c](https://github.com/user-attachments/assets/2e48d6c0-1daa-46df-87d5-eca8ee3af108)
+![WhatsApp Image 2025-11-14 at 12 49 51_50e519ed](https://github.com/user-attachments/assets/8d3d5040-dd3d-4788-8eb2-df96080afd67)
+![WhatsApp Image 2025-11-14 at 12 49 46_73c13823](https://github.com/user-attachments/assets/c2b3aad4-1334-40c2-8791-e32c89a1e176)
+![WhatsApp Image 2025-11-14 at 12 49 40_2dca1a40](https://github.com/user-attachments/assets/2ff1f183-d6de-456f-8fa4-ed0e06bf267e)
+
+
 
 WAVEFORM:
+```
+half wave rectifier:
+```
+
+<img width="891" height="573" alt="image" src="https://github.com/user-attachments/assets/18c6c7fe-f41e-4ce6-98c8-884c5c348b95" />
+<img width="890" height="567" alt="image" src="https://github.com/user-attachments/assets/c4601fdf-f0a3-4cd6-bb57-9a45f9c198d1" />
+
+
+
+```
+Bridge rectifier:
+```
+
+<img width="902" height="577" alt="image" src="https://github.com/user-attachments/assets/74ff5de7-9189-4531-ab4d-f5d2c914f78c" />
+<img width="905" height="577" alt="image" src="https://github.com/user-attachments/assets/f806e64a-24a4-44da-8a43-e35ddc51d815" />
 
 
 RESULT:
